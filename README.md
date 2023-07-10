@@ -16,5 +16,5 @@ and add them in the bin/{```your_OS```} folder (just for Linux and MacOS, for wi
 ### Framework: Selenium Webdriver + TestNG
 ### How to run the tests?
 You can run each Test case that functions have annotation @Test in classes in folder tests,
-Or right click **src/test/resources/xmlsuites/SwagLabProductTestSuite.xml** and run. 
+Or right click **src/test/resources/xmlsuites/SwagLabProductTestSuite.xml** and run; or use maven command to run test
 ### Edit Configurations in Intelij to generate test-output
